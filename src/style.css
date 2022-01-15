@@ -1,0 +1,59 @@
+
+@font-face {
+    font-family: "Archivo";
+    src: local("Archivo"),
+     url("./assets/fonts/Archivo-Regular.ttf") format("truetype");
+    font-weight: 400;
+    }
+
+    @font-face {
+        font-family: "Archivo";
+        src: local("Archivo"),
+         url("./assets/fonts/Archivo-Bold.ttf") format("truetype");
+        font-weight: bold;
+        }
+
+        @font-face {
+            font-family: "Archivo";
+            src: local("Archivo"),
+             url("./assets/fonts/Archivo-SemiBold.ttf") format("truetype");
+            font-weight: 600;
+            }
+
+
+            @font-face {
+                font-family: "Archivo";
+                src: local("Archivo"),
+                 url("./assets/fonts/Archivo-Black.ttf") format("truetype");
+                font-weight: 900;
+                }
+
+/* Nunito Fonts */
+
+                @font-face {
+                    font-family: "Nunito";
+                    src: local("Nunito"),
+                     url("./assets/fonts/Nunito-Regular.ttf") format("truetype");
+                    font-weight: 400;
+                    }   
+                    
+                @font-face {
+                        font-family: "Nunito";
+                        src: local("Nunito"),
+                         url("./assets/fonts/Nunito-Bold.ttf") format("truetype");
+                        font-weight: 700;
+                        }  
+
+                        @font-face {
+                            font-family: "Nunito";
+                            src: local("Nunito"),
+                             url("./assets/fonts/Nunito-SemiBold.ttf") format("truetype");
+                            font-weight: 600;
+                            }
+
+                            @font-face {
+                                font-family: "Nunito";
+                                src: local("Nunito"),
+                                 url("./assets/fonts/Nunito-Black.ttf") format("truetype");
+                                font-weight: 900;
+                                }      
